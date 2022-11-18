@@ -30,4 +30,4 @@ The goal of this project is to build a basic social news program. Its users will
 
 ## Author
 
-@biancazabroski aka @biaszabroski# devscool.project1
+@biancazabroski aka @biaszabroski
